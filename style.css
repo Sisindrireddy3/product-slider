@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    min-width: 1900px;
+}
+.s1{
+    height: 400px;
+    width: 200px;
+    background-color: aquamarine;
+    float: left;
+    
+}
+ .s11{
+    text-align: center;
+}
+.s2{
+    height: 400px;
+    width: 200px;
+    background-color: rgb(10, 218, 148);
+    float: left;
+    
+}
+ .s12{
+    text-align: center;
+}
+.s3{
+    height: 400px;
+    width: 200px;
+    background-color: rgb(236, 15, 181);
+    float: left;
+    
+}
+ .s13{
+    text-align: center;
+}
+.s4{
+    height: 400px;
+    width: 200px;
+    background-color: aquamarine;
+    float: left;
+    
+}
+ .s14{
+    text-align: center;
+}
+.s5{
+    height: 400px;
+    width: 200px;
+    background-color: rgb(230, 179, 11);
+    float: left;
+    
+}
+ .s15{
+    text-align: center;
+}
+.s6{
+    height: 400px;
+    width: 200px;
+    background-color: rgb(8, 196, 108);
+    float: left;
+    
+}
+ .s16{
+    text-align: center;
+}
+.s7{
+    height: 400px;
+    width: 200px;
+    background-color: rgb(141, 15, 36);
+    float: left;
+    
+}
+ .s17{
+    text-align: center;
+}
+.s8{
+    height: 400px;
+    width: 200px;
+    background-color: rgb(26, 23, 173);
+    float: left;
+    
+}
+ .s18{
+    text-align: center;
+}
+section{
+    flex-wrap: nowrap;
+overflow-x: auto;
+}
+.sisi{
+    
+}
